@@ -1,0 +1,15 @@
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\bin\Debug\net6.0\C-_mpt.exe
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\bin\Debug\net6.0\C-_mpt.deps.json
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\bin\Debug\net6.0\C-_mpt.runtimeconfig.json
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\bin\Debug\net6.0\C-_mpt.dll
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\bin\Debug\net6.0\C-_mpt.pdb
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\obj\Debug\net6.0\C-_mpt.csproj.AssemblyReference.cache
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\obj\Debug\net6.0\C-_mpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\obj\Debug\net6.0\C-_mpt.AssemblyInfoInputs.cache
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\obj\Debug\net6.0\C-_mpt.AssemblyInfo.cs
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\obj\Debug\net6.0\C-_mpt.csproj.CoreCompileInputs.cache
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\obj\Debug\net6.0\C-_mpt.dll
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\obj\Debug\net6.0\refint\C-_mpt.dll
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\obj\Debug\net6.0\C-_mpt.pdb
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\obj\Debug\net6.0\C-_mpt.genruntimeconfig.cache
+C:\Users\grzhd\OneDrive\Рабочий стол\C-_mpt\obj\Debug\net6.0\ref\C-_mpt.dll
